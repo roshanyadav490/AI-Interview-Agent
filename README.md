@@ -43,8 +43,7 @@ It automates the screening and interview process using intelligent question gene
 
 ---
 ## 📸 Demo
-
-(Add screenshots or GIF here)
+https://github.com/roshanyadav490/AI-Interview-Agent/blob/main/lang.mp4
 
 ---
 ## 📜 License
