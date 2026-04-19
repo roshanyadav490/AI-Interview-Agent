@@ -2,14 +2,14 @@
 
 ## Description
 
-HireMind-AI is an AI-powered autonomous hiring agent that evaluates candidates by comparing resumes with job descriptions and conducting adaptive technical interviews.
+Ai-interview-Agent is an AI-powered autonomous hiring agent that evaluates candidates by comparing resumes with job descriptions and conducting adaptive technical interviews.
 It automates the screening and interview process using intelligent question generation and answer evaluation.
 
 ---
 
 ## Features
 
-* 📄 Resume vs Job Description matching
+*  Resume vs Job Description matching
 *  Candidate eligibility screening
 *  Adaptive question generation (Basic → Moderate → Hard)
 *  AI-based answer evaluation
